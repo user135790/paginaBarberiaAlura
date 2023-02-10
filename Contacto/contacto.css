@@ -1,8 +1,3 @@
-main{
-    width: 940px;
-    margin: 0 auto;
-}
-
 .formulario-persona{
     margin: 40px 0px;
 }
@@ -55,4 +50,23 @@ thead{
 th,td{
     border: 1px solid #000000;
     padding: 8px 15px;
+}
+
+/* MEDIA QUERY */
+@media screen and (max-width:480px){
+    main{
+        width: auto;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .formulario-persona input, .formulario-persona textarea, .formulario-persona select{
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    table{
+        width: 200px;
+        margin: 20px auto;
+    }
 }

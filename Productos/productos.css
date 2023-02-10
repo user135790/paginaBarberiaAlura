@@ -1,36 +1,7 @@
-.caja{
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
-}
-
-nav{
-    position: absolute;
-    top: 110px;
-    right: 0;
-}
-
-nav li{
-    display: inline;
-    margin: 0 0 0 15px;
-}
-
-nav a{
-    text-transform: uppercase;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 22px;
-    color: #000000;
-}
-
-nav a:hover{
-    color: #2A44FF;
-}
-
 .productos{
     width: 940px;
     margin: 0 auto;
-    padding: 50px;
+    padding: 50px 0;
 }
 
 .productos li{
@@ -65,11 +36,27 @@ nav a:hover{
 }
 
 .producto-descripcion{
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .producto-precio{
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+@media screen and (max-width:480px){
+    main, .productos{
+        width: auto;
+    }
+
+    .productos{
+        padding: 20px;
+    }
+
+    .productos li{
+        display: block;
+        width: 100%;
+        margin: 20px 0;
+    }
 }
