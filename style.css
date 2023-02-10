@@ -44,6 +44,7 @@ nav a:hover{
 
 .principal p{
     font-size: 18px;
+    text-align: center;
 }
 
 .principal h2{
@@ -57,10 +58,6 @@ nav a:hover{
 }
 
 .titulo{
-    text-align: center;
-}
-
-p{
     text-align: center;
 }
 

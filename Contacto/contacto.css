@@ -1,0 +1,58 @@
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.formulario-persona{
+    margin: 40px 0px;
+}
+
+form label, form legend, form select{
+    display: block;
+    margin: 0 0 10px 0;
+    font-size: 20px;
+}
+
+.input-central{
+    display: block;
+    margin: 0 0 20px 0;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.lbl-checkbox{
+    margin: 20px 0;
+}
+
+.btn-enviar{
+    width: 40%;
+    padding: 15px 0;
+    background-color: orange;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.btn-enviar:hover{
+    background-color: darkorange;
+    transform: scale(1.1);
+}
+
+table{
+    margin: 40px 40px;
+}
+
+thead{
+    background: #555555;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+th,td{
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
