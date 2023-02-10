@@ -7,9 +7,7 @@ Página web resultado del trabajo realizado en los cursos de html y css de ONE -
 
 Responsive
 
-
 ![Captura de pantalla 2023-02-09 214556](https://user-images.githubusercontent.com/50127993/217987995-21605c4f-fe6a-4908-9af5-48ea778629d8.png)
 ![Captura de pantalla 2023-02-09 214947](https://user-images.githubusercontent.com/50127993/217988092-82c7c055-e37f-4eec-9b14-19040a6139e5.png)
-![Captura de pantalla 2023-02-09 214708](https://user-images.githubusercontent.com/50127993/217988104-ac7cadf4-b031-4f9c-8171-fa645623b494.png)
 ![Captura de pantalla 2023-02-09 214708](https://user-images.githubusercontent.com/50127993/217988104-ac7cadf4-b031-4f9c-8171-fa645623b494.png)
 ![Captura de pantalla 2023-02-09 214814](https://user-images.githubusercontent.com/50127993/217989020-962cd2cc-9b4f-49c9-b2aa-38ec345bd1fb.png)
